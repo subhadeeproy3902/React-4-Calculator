@@ -14,8 +14,7 @@ h1{
 
 .footer{
   position: absolute;
-  padding-top: 10px;
-  top: 92vh;
+  top: 90vh;
   font-size: 1rem;
   color: #fff;
   transform: translate(-50%,-50%);
